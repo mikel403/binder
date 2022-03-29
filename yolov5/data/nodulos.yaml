@@ -1,0 +1,9 @@
+
+train: ../Imagenes_descritas_Yolo_nodulos/train  # train images (relative to 'path') 128 images
+val: ../Imagenes_descritas_Yolo_nodulos/validation  # val images (relative to 'path') 128 images
+test:  ../imagenes_para_manuela
+
+# Classes
+nc: 1  # number of classes
+names: ['nodulo']  # class names
+
