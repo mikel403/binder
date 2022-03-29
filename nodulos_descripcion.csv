@@ -1,0 +1,87 @@
+﻿Identidad,Forma,Margen,Orientación,Ecogenicidad,Característica Posterior,Halo Ecogénico,Sugestivo,Forma2,Margen2,Orientación2,Ecogenicidad2,Característica Posterior2,Halo Ecogénico2,Sugestivo2,BIRADS,Resultados,Num Nódulos
+BCD_benign_4,redondeada,,,compleja,refuerzo,no,quiste complejo,redondeada,,,compleja,refuerzo,no,quiste complejo,4A,benign,2
+BCD_benign_3,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_2,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_1,ovalada,circunscrito,,hipoecoica,sin cambios,no,,,,,,,,,3,benign,1
+B_8,ovalada,circunscrito,paralela,heterogénea,sombra,no,fibroadenoma,,,,,,,,3,benign,1
+B_7,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_37,redondeada,circunscrito,,hipoecoica,sin cambios,no,,,,,,,,,3,benign,1
+B_33,ovalada,circunscrito,paralela,anecoica,sin cambios,no,quiste simple,,,,,,,,2,benign,1
+B_31,irregular,angulado,antiparalela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_30,irregular,angulado,paralela,heterogénea,refuerzo,sí,,,,,,,,,4C,malignant,1
+B_29,irregular,espiculado,paralela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_22,lobulada,circunscrito,paralela,mixta,refuerzo,no,lesión papilar intraquística,,,,,,,,4A,benign,1
+B_20,ovalada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,3,benign,1
+B_17,ovalada,circunscrito,paralela,anecoica,sin cambios,no,quiste simple,,,,,,,,2,benign,1
+B_1,lobulada,angulado,paralela,hipoecoica,sin cambios,no,,,,,,,,,4A,benign,1
+BCD_benign_7,ovalada,circunscrito,paralela,anecoica,sin cambios,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_8,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_18,lobulada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_21,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_25,,circunscrito,,anecoica,refuerzo,no,quiste simple,,circunscrito,,anecoica,refuerzo,no,quiste simple,2,benign,2
+B_14,ovalada,circunscrito,paralela,heterogénea,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_16,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_18,irregular,indefinido,antiparalela,hipoecoica,sin cambios,sí,,,,,,,,,4C,malignant,1
+B_21,ovalada,circunscrito,,mixta,refuerzo,no,lesión papilar intraquística,,,,,,,,4A,benign,1
+B_23,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,malignant,1
+B_24,lobulada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,malignant,1
+B_25,irregular,indefinido,antiparalela,hiperecoica,sombra,sí,,,,,,,,,4C,malignant,1
+B_26,ovalada,circunscrito,paralela,heterogénea,sombra,no,fibroadenoma,,,,,,,,3,benign,1
+B_27,,indefinido,antiparalela,,,no,,,,,,,,,4C,malignant,1
+B_28,lobulada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,3,malignant,1
+B_47,ovalada,circunscrito,paralela,anecoica,sin cambios,no,quiste simple,,,,,,,,2,malignant,1
+B_36,lobulada,indefinido,antiparalela,hipoecoica,sin cambios,no,ganglio intramamario,,,,,,,,2,benign,1
+B_11,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_15,redondeada,circunscrito,,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_34,ovalada,circunscrito,antiparalela,hipoecoica,sin cambios,no,quiste simple,,,,,,,,2,benign,1
+B_38,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,ganglio intramamario,,,,,,,,2,benign,1
+B_39,lobulada,circunscrito,paralela,hipoecoica,sin cambios,no,quiste complejo,,,,,,,,2,benign,1
+B_41,ovalada,indefinido,paralela,mixta,refuerzo,no,quiste complejo,,,,,,,,4A,malignant,1
+B_43,irregular,indefinido,antiparalela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_44,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,malignant,1
+B_48,redondeada,circunscrito,,heterogénea,sin cambios,no,ganglio intramamario,,,,,,,,2,malignant,1
+B_51,ovalada,circunscrito,paralela,heterogénea,refuerzo,no,fibroadenoma con degeneración quística,,,,,,,,3,benign,1
+B_52,lobulada,circunscrito,paralela,hipoecoica,mixto,no,fibroadenoma,,,,,,,,3,benign,1
+B_59,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_60,lobulada,circunscrito,paralela,isoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_73,ovalada,circunscrito,paralela,isoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_81,ovalada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,3,benign,1
+B_45,irregular,,,hipoecoica,refuerzo,no,,,,,,,,,4A,malignant,1
+B_46,irregular,indefinido,,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_53,irregular,indefinido,antiparalela,hipoecoica,sombra,no,,,,,,,,,4C,malignant,1
+B_55,irregular,espiculado,antiparalela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_56,ovalada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,3,benign,1
+B_57,irregular,indefinido,antiparalela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_58,ovalada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,3,benign,1
+B_64,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_65,redondeada,circunscrito,,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_67,ovalada,indefinido,paralela,hipoecoica,sin cambios,no,quiste tóxico,,,,,,,,4A,benign,1
+B_132,irregular,indefinido,,hipoecoica,refuerzo,no,,,,,,,,,4C,malignant,1
+B_134,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,malignant,1
+BCD_malignant_104,irregular,espiculado,antiparalela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_2,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_3,redondeada,circunscrito,,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_4,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,quiste complejo,,,,,,,,4A,benign,1
+B_5,redondeada,circunscrito,,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+B_49,irregular,indefinido,antiparalela,hipoecoica,sombra,sí,,,,,,,,,5,malignant,1
+B_50,lobulada,circunscrito,paralela,hipoecoica,refuerzo,no,,,,,,,,,4A,malignant,1
+B_69,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,benign,1
+B_74,ovalada,angulado,paralela,heterogénea,,no,,,,,,,,,4A,benign,1
+B_75,lobulada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,4A,benign,1
+B_133,irregular,indefinido,paralela,,sin cambios,sí,,,,,,,,,4B,malignant,1
+B_135,irregular,indefinido,paralela,hipoecoica,refuerzo,no,,,,,,,,,4B,malignant,1
+B_136,irregular,indefinido,paralela,heterogénea,,sí,,,,,,,,,4B,malignant,1
+B_6,ovalada,circunscrito,paralela,anecoica,,no,quiste simple,,,,,,,,2,benign,1
+B_9,ovalada,circunscrito,paralela,anecoica,,no,quiste simple,,,,,,,,2,benign,1
+B_10,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_benign_106,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,redondeada,circunscrito,,anecoica,refuerzo,no,quiste simple,2,benign,2
+BCD_benign_113,ovalada,circunscrito,paralela,anecoica,refuerzo,no,quiste simple,,,,,,,,2,benign,1
+BCD_malignant_4,irregular,indefinido,,hipoecoica,sombra,sí,,,,,,,,,4C,malignant,1
+BCD_malignant_102,irregular,indefinido,,hipoecoica,sin cambios,sí,,,,,,,,,4C,malignant,1
+BCD_malignant_199,irregular,indefinido,,hipoecoica,sombra,sí,,,,,,,,,4C,malignant,1
+BCD_normal_34,ovalada,circunscrito,paralela,anecoica,,no,quiste simple,,,,,,,,2,benign,1
+BUSIS_121,ovalada,circunscrito,paralela,hipoecoica,sin cambios,no,fibroadenoma,,,,,,,,3,,1
+BUSIS_164,irregular,indefinido,,hipoecoica,refuerzo,sí,,,,,,,,,4C,,1
+B_89,ovalada,circunscrito,paralela,hipoecoica,refuerzo,no,fibroadenoma,,,,,,,,4A,benign,1
+B_99,ovalada,circunscrito,paralela,isoecoica,,no,fibroadenoma,,,,,,,,3,benign,1
+B_32,redondeada,circunscrito,,anecoica,,no,quiste simple,,,,,,,,2,benign,1
