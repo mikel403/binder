@@ -1,3 +1,8 @@
+voila==0.2.11
+scipy==1.6.2
+bqplot
+ipympl
+ipyvolume
 opencv-python==4.5.5.62
 pyyaml==6.0
 tqdm==4.63.0
@@ -16,6 +21,7 @@ tensorflow-estimator==2.6.0
 torch==1.10.0
 torchvision
 seaborn==0.11.2
+
 
 
 
