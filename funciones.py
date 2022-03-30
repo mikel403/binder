@@ -23,7 +23,16 @@ def reshape_matmul(M3D,M2D):
 #    return data
 
 
-
+class Horizontal_flip(Layer):
+    def __init__(self,**kwargs):
+        super(Horizontal_flip, self).__init__()
+        super(Horizontal_flip, self).__init__(**kwargs)
+    def call(self,inputs,training=None):
+        if not training:
+            output=inputs
+        else:
+            output=tf.image.random_flip_left_right(inputs)
+        return output
 
 class LSTM_Attention(Layer):
     def __init__(self, dim_feature=[196,512],dim_word=46,dim_hidden=256,
