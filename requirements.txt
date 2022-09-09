@@ -1,3 +1,4 @@
+contextfilter
 voila==0.2.11
 scipy==1.6.2
 bqplot
