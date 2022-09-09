@@ -1,5 +1,5 @@
 jinja2==3.0.3
-voila=0.2.11
+voila==0.2.11
 scipy==1.6.2
 bqplot
 ipympl
