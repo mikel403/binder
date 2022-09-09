@@ -1,5 +1,4 @@
-contextfilter
-voila==0.2.11
+voila
 scipy==1.6.2
 bqplot
 ipympl
